@@ -72,5 +72,6 @@ a.button:hover, .footer, .footer2 {
   padding: 0;
 }
 .footer .button {
-  margin-bottom: 0;
+  margin-top: .25em;
+  margin-bottom: .25em;
 }

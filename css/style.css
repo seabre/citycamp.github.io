@@ -36,7 +36,7 @@ header {
   padding-bottom: 30px;
   padding-top: 30px;
 }
-.footer a, .footer .icon, a.button, .footer, .footer2, a.hero-button:hover, .hero h1, .hero h2, .hero, .sub-nav dt a:hover, .sub-nav dd a:hover, .sub-nav li a:hover, .footer a, .footer2 a:hover {
+.footer a, .footer .icon, a.button, a.button:visited, .footer, .footer2, a.hero-button:hover, .hero h1, .hero h2, .hero, .sub-nav dt a:hover, .sub-nav dd a:hover, .sub-nav li a:hover, .footer a, .footer2 a:hover {
   color: #fff;
 }
 button, .button, .button:hover {

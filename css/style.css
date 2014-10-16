@@ -51,6 +51,10 @@ a.button:hover, .footer, .footer2 {
 .fa-3 {
   font-size: 2em;  
 }
+.supporter {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
 .footer, .footer2 {
   bottom: 0;
   margin-bottom: 0;

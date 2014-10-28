@@ -1,7 +1,7 @@
 body, h1, h2, h3, h4, h5, h6, button, .button, label, .sub-nav dt, .sub-nav dd, .sub-nav li {
   font-family: 'Open Sans', sans-serif;
 }
-a, a:visited, .fa, a.hero-button, .footer2 h3, a.hero-button {
+a, a:visited, .fa, a.hero-button, .footer2 h3, a.hero-button, .large {
   color: #83B845;
 }
 a:hover {
@@ -50,6 +50,9 @@ a.button:hover, .footer, .footer2 {
 }
 .fa-3 {
   font-size: 2em;  
+}
+.large {
+  font-size: 4em;  
 }
 .supporter {
   margin-bottom: 20px;

@@ -1,4 +1,4 @@
-a, a:visited, .fa, a.hero-button, .footer2 h3, a.hero-button {
+h1, h2, h3, h4, h5, h6, a, a:visited, .fa, a.hero-button, .footer2 h3, a.hero-button {
   color: #E05A09;
 }
 .sub-nav dt.active a, .sub-nav dd.active a, .sub-nav li.active a, button, .button, .button:hover {

@@ -1,7 +1,7 @@
 body, h1, h2, h3, h4, h5, h6, button, .button, label, .sub-nav dt, .sub-nav dd, .sub-nav li {
   font-family: 'Open Sans', sans-serif;
 }
-a, a:visited, .fa, a.hero-button, .footer2 h3, a.hero-button, .large {
+h1, h2, h3, h4, h5, h6, a, a:visited, .fa, a.hero-button, .footer2 h3, a.hero-button, .large {
   color: #83B845;
 }
 a:hover {
@@ -23,8 +23,8 @@ header {
 .hero {
   border-top: 10px solid #83B845;
   margin-bottom: 30px; 
-  padding-bottom: 80px;
-  padding-top: 80px;
+  padding-bottom: 130px;
+  padding-top: 130px;
 }
 .line {
   border-bottom: 10px solid #efefef;
